@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data-structures with Java**
 
-- 👨‍💻 All of my projects are available at [https://youtu.be/jhjpaimOngU](https://youtu.be/jhjpaimOngU)
-
 - 📫 How to reach me **kush.natasha1@gmail.com**
 
 - ⚡ Fun fact **I love Memes :)**
