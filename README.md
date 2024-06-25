@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java and Web Development**
 
-- 🌱 I’m currently learning **Data-structures with Java**
+- 🌱 Learning **Data-structures with Java**
 
 - 💬 Ask me about **JAVA, Web-Development**
 
