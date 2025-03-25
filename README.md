@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natasha kushwah</h1>
 <h3 align="center">Ambitious and motivated student with a strong interest in computer science and web development.</h3>
 
-- 🔭 I’m currently working on **Java and Web Development**
-
-- 🌱 Learning **Data-structures with Java**
+- 🔭 I’m currently working on **Java and Web Development** **Data-structures with Java**
 
 - 💬 Ask me about **JAVA, Web-Development**
 
