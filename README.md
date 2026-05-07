@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Natasha kushwah</h1>
-<h3 align="center">Ambitious and motivated student with a strong interest in computer science and web development.</h3>
 
-- 🔭 I’m currently working on **Java and Web Development, Data-structures with Java**
+<h3 align="center">Graduate Engineer Trainee @MPSEDC</h3>
 
-- 💬 Ask me about **JAVA, Web-Development**
+- 🔭 I’m currently working on **.NET Core, ASP.NET Core Web API, ADO.NET, SQL Server, and Full Stack Projects**
+
+- 💬 Ask me about **C#, .NET Core, ASP.NET Core, Web Development, SQL, and Java**
 
 - 📫 How to reach me **kush.natasha1@gmail.com**
 
