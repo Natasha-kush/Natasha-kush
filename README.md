@@ -2,9 +2,9 @@
 
 <h3 align="center">Graduate Engineer Trainee @MPSEDC</h3>
 
-- 🔭 I’m currently working on **.NET Core, ASP.NET Core Web API, ADO.NET, SQL Server, and Full Stack Projects**
+- 🔭 I’m currently working on **.NET Core, ASP.NET Core Web API, ADO.NET, Angular, SQL Server, and Full Stack Projects**
 
-- 💬 Ask me about **C#, .NET Core, ASP.NET Core, Web Development, SQL, and Java**
+- 💬 Ask me about **C#, .NET Core, ASP.NET Core, Angular, SQL, and Java**
 
 - 📫 How to reach me **kush.natasha1@gmail.com**
 
